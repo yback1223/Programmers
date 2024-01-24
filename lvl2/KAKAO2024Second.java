@@ -1,4 +1,4 @@
-package lv2;
+package lvl2;
 
 import java.util.*;
 
